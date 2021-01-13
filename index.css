@@ -102,3 +102,11 @@ div h3 p img {
   font-family: "Amatic SC", cursive;
   font-size: large;
 }
+
+h6 {
+  text-align: center;
+}
+
+a {
+  color: lightcoral;
+}
